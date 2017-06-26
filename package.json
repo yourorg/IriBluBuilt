@@ -1,8 +1,8 @@
 {
-  "name": "meteor-mantra-kickstarter",
-  "version": "0.4.0",
+  "name": "IriBluBuilt",
+  "version": "0.0.1",
   "license": "MIT",
-  "repository": "https://github.com/warehouseman/meteor-mantra-kickstarter",
+  "repository": "https://github.com/yourorg/IriBluBuilt",
   "scripts": {
     "lint": "npm run lint_pkgs && npm run lint_main",
     "lint_main": "eslint . --ext .js --ext .jsx",
